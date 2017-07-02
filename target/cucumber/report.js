@@ -29,7 +29,7 @@ formatter.match({
   "location": "automation_implementation.user_is_on_google_home_page()"
 });
 formatter.result({
-  "duration": 11312331830,
+  "duration": 19321199124,
   "status": "passed"
 });
 });

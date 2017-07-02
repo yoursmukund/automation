@@ -13,7 +13,8 @@ import cucumber.api.junit.Cucumber;
 		plugin = { 
 				"pretty",
 				"html:target/cucumber",
-		} 
+		}, 
+		format={"json:target/Destination/cucumber.json"}
 
 		)
 public class RunCukeTest {

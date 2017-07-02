@@ -1,0 +1,40 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 5,
+        "name": "Title of your scenario",
+        "description": "",
+        "id": "title-of-your-feature;title-of-your-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 19321199124,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User is on google home page",
+            "match": {
+              "location": "automation_implementation.user_is_on_google_home_page()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      }
+    ],
+    "name": "Title of your feature",
+    "description": "I want to use this template for my feature file",
+    "id": "title-of-your-feature",
+    "keyword": "Feature",
+    "uri": "automation.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@automation"
+      }
+    ]
+  }
+]
